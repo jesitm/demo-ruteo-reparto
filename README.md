@@ -1,10 +1,42 @@
 # Demo: ruteo de reparto desde el Parque Industrial Pilar
 
-## Instalación
-```
-pip install -r requirements.txt
-streamlit run app.py
-```
+El ruteo de reparto de mercaderia a los clientes
+
+## Capturas
+### Flota
+<img width="909" height="491" alt="image" src="https://github.com/user-attachments/assets/1d56ccca-0a08-4273-b532-e25d24db7fbc" />
+
+### clientes
+<img width="836" height="431" alt="image" src="https://github.com/user-attachments/assets/2444c09c-9357-47d7-8aca-b6a8c5644885" />
+
+### Paquetes
+
+<img width="881" height="443" alt="image" src="https://github.com/user-attachments/assets/cd33287f-043b-4b68-b9f1-9d87636b6bd9" />
+
+### Distancias y tiempos
+
+<img width="939" height="123" alt="image" src="https://github.com/user-attachments/assets/a776607e-156a-4900-83f9-848d9697e2a6" />
+
+### Mapa con las rutas de los camiones
+<img width="665" height="507" alt="image" src="https://github.com/user-attachments/assets/6fec98a1-404e-4a82-9de3-b1467d9d21bc" />
+
+### Resumen por camión
+
+<img width="869" height="384" alt="image" src="https://github.com/user-attachments/assets/b81e3160-f9ff-4402-8fbf-50825b06b7cf" />
+
+### Hoja de ruta - Camión 3
+
+<img width="930" height="532" alt="image" src="https://github.com/user-attachments/assets/6e82fbfd-e4e1-4855-bef2-942590e749c8" />
+
+### Seguimiento del paquete
+
+<img width="936" height="89" alt="image" src="https://github.com/user-attachments/assets/8a032e8d-cbf9-420d-a409-8c0a3c518af5" />
+<img width="654" height="565" alt="image" src="https://github.com/user-attachments/assets/69d6d149-ae3e-4f95-aa76-d502ebbd2042" />
+
+### Seguimiento del estado de lo paquetes
+
+<img width="914" height="491" alt="image" src="https://github.com/user-attachments/assets/0b855546-572d-49c4-a7ee-dfd5d2beb79d" />
+
 
 ## Archivos
 - `datos.py`: depósito, flota (con patente), clientes (nombre o razón social, dirección, CP) y paquetes con código.
